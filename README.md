@@ -15,5 +15,5 @@
 
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@sualiu?theme=asoul" width="30%">
+  <img src="https://count.getloli.com/get/@sualiu" width="100%">
 </p>
