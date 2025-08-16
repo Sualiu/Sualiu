@@ -76,6 +76,7 @@
 
 <div align="center">
   <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3419430/4b0d84cd5b8f0a60fa3ba3a0646e02be50935229/header_alt_assets_0.jpg" width="200" alt="anime-gif" />
+  <img src="https://raw.githubusercontent.com/Sualiu/Sualiu/refs/heads/main/10ED1F0FF0D2779E70B2A06C85B4270B_0.gif" width="200" alt="anime-gif" />
   <br>
   <b>“如果你也是懒人或者喜欢二次元，欢迎一起躺平摸鱼！”</b>
   <br>
